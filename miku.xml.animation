@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <filePath>C:\Users\bin\Desktop\mymiku\miku2\miku\miku.xml.animation</filePath>
+  <Version>1.2.0.0</Version>
+  <Name>miku</Name>
+  <ProjectDir>C:\Users\bin\Desktop\mymiku\miku2\miku</ProjectDir>
+  <JsonFileName>miku.json</JsonFileName>
+  <Resources>C:\Users\bin\Desktop\mymiku\miku2\miku\Resources</Resources>
+  <JsonFolder>C:\Users\bin\Desktop\mymiku\miku2\miku\Json</JsonFolder>
+  <JsonList />
+  <ResourceFileList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>
